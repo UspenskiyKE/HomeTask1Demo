@@ -3,5 +3,6 @@ public class HomeWork {
     {
         System.out.println("Это пример домашнего задания.");
 
+
     }
 }
